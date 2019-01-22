@@ -44,4 +44,4 @@ Further development will include:
 * Increasing the variety of villains
 * Giving the user choice of gameplay music
 
-:octocat: *Kind notice: as stated above this is a personal student project created by me, Sabrina Palis. I am neither providing the code, graphic assets, or distributing this project. Video with imovie, pixel artwork and fan art by me. This repo entry was done with the hope of providing inspiration to other coding students and future students* 
+:octocat: *Kind notice: as stated above this is a personal student project created by me, Sabrina Palis. I am neither providing the code, graphic assets, or distributing this project. Video made with imovie, pixel artwork and fan art by me. This repo entry was done with the hope of providing inspiration to other coding students and future students* 
