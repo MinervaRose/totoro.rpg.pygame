@@ -1,6 +1,6 @@
 # totoro.rpg.pygame :seedling: :shell:
 
-This basic RPG was created after completing the [Learn python Programming course by Zenva Academy](https://academy.zenva.com/certificate/53d92223/). 
+This basic RPG was created after completing a [Python game Programming course](https://academy.zenva.com/certificate/53d92223/). 
 
 ## Gameplay video 
 
